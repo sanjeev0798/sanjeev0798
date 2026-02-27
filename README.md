@@ -40,11 +40,12 @@ Python tooling project — shows scripting and automation skills applicable to t
 
 ---
 
+<!-- 
 ## 📊 GitHub Stats
 
 ![Sanjeev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjeev0798&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev0798&layout=compact&theme=dark&hide_border=true&langs_count=6)
-
+-->
 ---
 
 ## 📫 Let's Connect
